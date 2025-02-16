@@ -33,7 +33,7 @@ a {
 
 .second {
     display:flex;
-    justify-content:space-between;
+    justify-content:space-around;
     gap:20px;
     background-color:#695442;
     padding:50px;
@@ -66,7 +66,7 @@ a {
     height:200px;
     width:356px;
     border-radius:5px;
-    border:5px solid #1b1a17;
+    border:2px solid #1b1a17;
 }
 
 .info {
