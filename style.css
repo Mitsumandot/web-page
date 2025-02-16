@@ -4,6 +4,7 @@
 }
 
 
+
 body {
     margin:0;
 }
@@ -11,7 +12,8 @@ body {
 .header {
     display:flex;
     background:#1b1a17;
-    justify-content:space-around;
+    justify-content:space-between;
+    padding:0px 50px;
     align-items:center;
 
 }
@@ -31,7 +33,7 @@ a {
 
 .second {
     display:flex;
-    justify-content:center;
+    justify-content:space-between;
     gap:20px;
     background-color:#695442;
     padding:50px;
