@@ -127,3 +127,36 @@ a {
     text-align:end;
     font-size:25px;
 }
+
+.start-container {
+    display:flex;
+    justify-content:center;
+    padding:100px;
+    align-items:center;
+    background:#f4efde;
+}
+
+.start {
+    display:flex;
+    background:#38322b;
+    align-items:center;
+    gap:200px;
+    padding:20px;
+    border-radius:10px;
+    font-family:'myFont';
+    color:	#a78a6d;
+}
+
+.start-intro {
+    font-weight:900;
+    font-size:30px;
+}
+
+.start-soustext {
+    font-size:20px;
+}
+
+.start-button {
+    font-size:20px;
+    color:	#a78a6d;
+}
